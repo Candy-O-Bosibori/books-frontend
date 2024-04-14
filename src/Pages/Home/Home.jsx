@@ -53,7 +53,8 @@ book.title.toLowerCase().includes(search.toLowerCase())
           </h1>
         
           <p className="text-lg font-body text-center text-dm dark:text-white">
-          Explore our curated collection, connect with fellow book lovers, and embark on new literary adventures. Start turning pages today!"
+
+          "Track your books and share with others. Join our community to discover new reads, connect with fellow book lovers, and engage in lively discussions. Start building your book network now!"
           </p>
           <div className="flex justify-center mt-5" >
             <a  href="/signup" >
